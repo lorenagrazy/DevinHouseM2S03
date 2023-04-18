@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\bin\Debug\net7.0\Ex3aoEx10.exe
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\bin\Debug\net7.0\Ex3aoEx10.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\bin\Debug\net7.0\Ex3aoEx10.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\bin\Debug\net7.0\Ex3aoEx10.dll
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\bin\Debug\net7.0\Ex3aoEx10.pdb
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.dll
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\refint\Ex3aoEx10.dll
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.pdb
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\Ex3aoEx10.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M03\DevinHouseM2S03\Ex3aoEx10\obj\Debug\net7.0\ref\Ex3aoEx10.dll
