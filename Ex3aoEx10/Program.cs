@@ -1,38 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-
-class Proprietario
-{
-  public string nome;
-  public string cpf;
-  public string telefone;
-
-  public Proprietario(string nome, string cpf, string telefone)
-  {
-    this.nome = nome;
-    this.cpf = cpf;
-    this.telefone = telefone;
-  }
-}
-
-class Carro
-{
-  public string marca;
-  public string modelo;
-  public string placa;
-  public string cor;
-  public Proprietario proprietario;
-
-  public Carro(string marca, string modelo, string placa, string cor, Proprietario proprietario)
-  {
-    this.marca = marca;
-    this.modelo = modelo;
-    this.placa = placa;
-    this.cor = cor;
-    this.proprietario = proprietario;
-  }
-}
-
 class Program
 {
   static List<Carro> carros = new List<Carro>();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\Ex3aoEx10\\Ex3aoEx10.csproj": {}
+    "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\EX3aoEx10\\Ex3aoEx10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\Ex3aoEx10\\Ex3aoEx10.csproj": {
+    "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\EX3aoEx10\\Ex3aoEx10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\Ex3aoEx10\\Ex3aoEx10.csproj",
+        "projectUniqueName": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\EX3aoEx10\\Ex3aoEx10.csproj",
         "projectName": "Ex3aoEx10",
-        "projectPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\Ex3aoEx10\\Ex3aoEx10.csproj",
+        "projectPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\EX3aoEx10\\Ex3aoEx10.csproj",
         "packagesPath": "C:\\Users\\Lorena Silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\Ex3aoEx10\\obj\\",
+        "outputPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M03\\DevinHouseM2S03\\EX3aoEx10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lorena Silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
